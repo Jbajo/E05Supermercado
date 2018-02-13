@@ -11,6 +11,7 @@ public enum EnumCategorias {
     EnumCategorias(String baseCodigo, String codigoPais) {
         this.baseCodigo = baseCodigo;
         this.codigoPais = codigoPais;
+
     }
 
     public String getBaseCodigo(){

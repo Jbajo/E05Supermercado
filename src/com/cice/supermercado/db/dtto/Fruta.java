@@ -17,8 +17,7 @@ public class Fruta extends Producto{
     /**
      * Méotdo que me va a generar un código de 4 números dependiendo del nombre del producto
      * xxxx -> 1º país (8) -> 8xxx
-     * 1019 -> 2º suma de estas cuatro cifras -> 11 -> si el numero es de 2 cifras sumamos estas -> 82xx
-     *
+     * 1019 -> 2º suma de estas cuatro cifras -> 11 -> si el numero es de 2 cifras sumamos estas -> 82xx     *
      * @param baseCodigo
      * @return codigoProducto
      */

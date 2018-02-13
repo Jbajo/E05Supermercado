@@ -17,6 +17,7 @@ public class Producto {
         this.nombre = nombre;
         this.categoria = categoria;
         this.stockage = stockage;
+
     }
 
     public String getCodigo() {
